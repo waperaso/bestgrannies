@@ -1,0 +1,34 @@
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.navbar-brand{
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px;
+}
+
+.hello{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.images{
+
+}
+
+.op{
+	border-radius: 50px;
+}
+
+img{
+	width: 294px;
+	margin-left: 18px;
+	margin-top: 18px;
+	border-radius: 10px;
+	border: 1px solid;
+}
+
+img:hover{
+	width: 296px;
+}
